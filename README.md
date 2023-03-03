@@ -1,5 +1,2 @@
-# react-projects-7-slider
-
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+This is a reusable react slider component
+that displays a list of user reviews.
